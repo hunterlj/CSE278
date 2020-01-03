@@ -1,2 +1,2 @@
 # CSE278
-Operating Systems
+Collection of Assingments from Operating Systems
